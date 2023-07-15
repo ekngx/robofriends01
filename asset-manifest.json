@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends01/static/css/main.9844a7fc.css",
+    "main.js": "/robofriends01/static/js/main.affcc776.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends01/static/js/787.32032a02.chunk.js",
+    "static/media/BD_Cartoon_Shout.woff": "/robofriends01/static/media/BD_Cartoon_Shout.af6d723a1802d4a26094.woff",
+    "index.html": "/robofriends01/index.html",
+    "main.9844a7fc.css.map": "/robofriends01/static/css/main.9844a7fc.css.map",
+    "main.affcc776.js.map": "/robofriends01/static/js/main.affcc776.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends01/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9844a7fc.css",
+    "static/js/main.affcc776.js"
+  ]
+}
