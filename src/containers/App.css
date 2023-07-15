@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'BD Cartoon Shout';
+    src: url('BD_Cartoon_Shout.woff') format('woff');
+    font-style: normal;
+    font-weight: normal;
+}
+
+h1 {
+    font-family:'BD Cartoon Shout';
+    color: #0ccac4;
+    font-weight: 200;
+
+}
